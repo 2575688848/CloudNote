@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CloudNote</string>
+    <string name="login">Login</string>
+    <string name="input_username">username</string>
+    <string name="input_password">password</string>
+    <string name="login_bt">登陆</string>
+    <string name="register_bt">注册</string>
+    <string name="reinput_password">再次输入密码</string>
+    <string name="register">Register</string>
+    <string name="emotion">CloudNotes</string>
+</resources>
